@@ -1,0 +1,13 @@
+{
+  "name": "login-test-project",
+  "version": "1.0.0",
+  "description": "Simple login form with Jest unit tests",
+  "main": "login.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "29.7.0"
+
+  }
+}
